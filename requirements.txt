@@ -1,10 +1,7 @@
 streamlit
 pandas
-numpy 
-matplotlib.pyplot 
+numpy
+matplotlib
 seaborn
-plotly.express
-st_toggle_switch
-joblib
-io
-StandardScaler
+scikit-learn
+
