@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy 
+matplotlib.pyplot 
+seaborn
+plotly.express
+st_toggle_switch
+joblib
+io
+StandardScaler
